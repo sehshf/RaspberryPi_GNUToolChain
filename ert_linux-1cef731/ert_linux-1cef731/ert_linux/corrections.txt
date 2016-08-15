@@ -1,7 +1,7 @@
 Corrections:
 
 1) Install matlab in a folder without having space 
-   in the path (eg. C:\Matlab20142\)
+   in the path (eg. C:\Matlab2014\)
 
 2) In the template "ert_linux.tmf" set HOST = ANY to 
    be able to cross compile from windows
